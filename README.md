@@ -48,7 +48,7 @@ If successful, the attacker may:
 
 ## Red Flags
 
-- **Out-of-State Claim**: Recipient has no ties to Florida  
+- **Out-of-State Claim**: Recipient has no current ties to Florida  
 - **International Origin**: `+63` Philippines number used  
 - **Spoofed Domain**: `.win` TLD impersonating `.gov`  
 - **Grammar Error**: “May 22st”  
