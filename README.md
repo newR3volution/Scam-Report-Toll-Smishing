@@ -16,7 +16,7 @@ Despite its aggressive tone, the scam collapses under scrutiny:
 
 This is a textbook example of a **disruption-based phishing attack** built to shock and extract compliance.
 
-> *While the scam message in this case spoofed Florida's DMV system, the victim no longer resides in Florida. However, this incident aligns with a broader trend of regionally tailored smishing campaigns. Interestingly, the recipient's spouse, still based in Oklahoma, has only received Oklahoma-specific phishing messages, while the Florida-themed message targeted someone with previous ties to that state. This indicates the attacker may be working with partial or outdated location data from breaches, public records, or data brokers to personalize these messages just enough to bypass skepticism.*
+*While the scam message in this case spoofed Florida's DMV system, the victim no longer resides in Florida. However, this incident aligns with a broader trend of regionally tailored smishing campaigns. Interestingly, the recipient's spouse, still based in Oklahoma, has only received Oklahoma-specific phishing messages, while the Florida-themed message targeted someone with previous ties to that state. This indicates the attacker may be working with partial or outdated location data from breaches, public records, or data brokers to personalize these messages just enough to bypass skepticism.*
 
 ## STC v2 Breakdown
 
